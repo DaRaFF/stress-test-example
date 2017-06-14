@@ -5,9 +5,9 @@
         <!doctype html>
         <html  lang="it" >
 
-        <head>
+        <body>
           hello
-        </head>
+        </body>
 
 
 # /**/{id}
@@ -17,9 +17,9 @@
         <!doctype html>
         <html  lang="it" >
 
-        <head>
+        <body>
           hello
-        </head>
+        </body>
 
 
 # /**/
@@ -29,9 +29,9 @@
         <!doctype html>
         <html  lang="it" >
 
-        <head>
+        <body>
           hello
-        </head>
+        </body>
 
 
 # /
@@ -41,6 +41,6 @@
         <!doctype html>
         <html  lang="it" >
 
-        <head>
+        <body>
           hello
-        </head>
+        </body>
